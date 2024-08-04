@@ -1,7 +1,7 @@
 const https = require('https');
 
 // Sizning tokeningizni bu yerga qo'ying
-const token = '7391129165:AAHVANAucuSGZcdxnV54soRrZ_jhWsKq8VM';
+const token = 'YOUR_TELEGRAM_BOT_TOKEN';
 const apiUrl = `https://api.telegram.org/bot${token}`;
 
 // Xabar yuborish funktsiyasi
